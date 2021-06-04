@@ -5,13 +5,15 @@
 * Create a git repository and add Javascript file
 * Ignore files using git
  
+
 ### Technologies used
-    Git software
-    Terminal
-    Visual Studio Code
+`Git software`
+`Terminal`
+`Visual Studio Code`
+
 
 ### What I learned
-    How to initialize and work with Javascript files using git. 
+How to initialize and work with Javascript files using git. 
 
 
 
